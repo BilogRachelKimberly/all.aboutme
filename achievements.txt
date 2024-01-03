@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<head><title>Achievments</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="img/logo.jpg" alt="All About Me" title="Get to Know Me!">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="personal information.html">Personal Information</a></td>
+<td><a href="hobbies.html">Hobbies</a></td>
+<td><a href="achievements.html">Achievements</a></td>
+<td><a href="ambition.html">Ambition</a></td>
+</tr>
+</nav>
+</table>
+
+<h2>Achievements</h2>
+
+<table>
+<tr>
+<td bgcolor="pink" align="center">
+<header>
+<h3>My academic achievements this senior year!</h3>
+</header>
+</td>
+</tr>
+<tr>
+<td>
+<p>It's not much but I'm proud of it, considering the fact that before
+I entered my senior year, i quite lost my motivation to study because
+of the pandemic. So it makes me happy that I got out of it and I had
+the chance to improve my academic performance compared from before.</p>
+
+<p><strong>Grade 11(First Quarter):</strong></p>
+<ul>
+<li>Total ave of: 91.78</li>
+<li>Ranked as the top 6 in class</li>
+<li>With Honors</li>
+</ul>
+
+<p><strong>Grade 11(Second Quarter):</strong></p>
+<ul>
+<li>Total ave of: 94.78</li>
+<li>Ranked as the top 2 in class</li>
+<li>With Honors</li>
+</ul>
+
+<p><strong>Grade 11(First Semester Overall):</strong></p>
+<ul>
+<li>Total ave of: 93.28</li>
+<li>Ranked as the top 4 in class</li>
+<li>With Honors</li>
+</ul>
+
+<p><strong>Grade 11(Third Quarter):</strong></p>
+<ul>
+<li>Total ave of: 91.78</li>
+<li>Ranked as the top 6 in class</li>
+<li>With Honors</li>
+</ul>
+
+<p><strong>Grade 11(Fourth Quarter):</strong></p>
+<ul>
+<li>Total ave of: 93.00</li>
+<li>Ranked as top in class</li>
+<li>With Honors</li>
+</ul>
+
+<p><strong>Grade 11(Second Semester Overall):</strong></p>
+<ul>
+<li>Total ave of: 92.39</li>
+<li>Ranked as top in class</li>
+<li>With Honors</li>
+</ul>
+
+<p><strong>Grade 11(Overall GWA):</strong></p>
+<ul>
+<li>Total ave of: 92.83</li>
+<li>Ranked as the top 4 in class</li>
+<li>With Honors</li>
+<li>Best in Conduct</li>
+</ul>
+
+<p><strong>Grade 12(First Quarter):</strong></p>
+<ul>
+<li>Total ave of: 91.89</li>
+<li>Ranked as the top 6 in class</li>
+<li>With Honors</li>
+</ul>
+
+<img src="img/certi(1).jpg" width="50%" height="50%">
+
+<img src="img/certi(2).jpg" width="50%" height="50%">
+
+<img src="img/certi(3).jpg" width="50%" height="50%">
+
+<hr>
+<footer>
+Copyright &copy; AllAbout.Me 2023-2024
+</footer>
+</body>
